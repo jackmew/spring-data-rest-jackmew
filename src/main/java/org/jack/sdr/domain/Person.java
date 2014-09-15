@@ -1,4 +1,4 @@
-package org.jack.sdr;
+package org.jack.sdr.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

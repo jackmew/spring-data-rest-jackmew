@@ -3,6 +3,7 @@
  */
 package org.jack.sdr;
 
+import org.jack.sdr.domain.Person;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.rest.core.config.RepositoryRestConfiguration;
 import org.springframework.data.rest.webmvc.config.RepositoryRestMvcConfiguration;

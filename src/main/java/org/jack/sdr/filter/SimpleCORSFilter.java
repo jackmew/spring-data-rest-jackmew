@@ -1,7 +1,7 @@
 /**
  * 
  */
-package org.jack.sdr;
+package org.jack.sdr.filter;
 
 import java.io.IOException;
 
