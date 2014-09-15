@@ -32,7 +32,7 @@ function getUsersClick(){
     $.each(peopleArray,function( index , value){
       var id = index+1;
       $('#show').append("<tr>"+ 
-                          "<td>"+ id +"</td>"+
+                          "<td>"+peopleArray[index].id+"</td>"+
                           "<td>"+peopleArray[index].firstName+"</td>"+
                           "<td>"+peopleArray[index].lastName+"</td>"+
                         "</tr>");      
